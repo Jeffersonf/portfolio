@@ -124,7 +124,7 @@ const Contact = ({ theme }: ContactProps) => {
                   <h3 className="text-xl font-medium mb-2">Location</h3>
                   <p className={`${theme === 'dark' ? 'text-gray-300' : 'text-gray-700'}`}>
                     123 Developer Street<br />
-                    San Francisco, CA 94107
+                    São Paulo - Brasil
                   </p>
                 </div>
               </div>
@@ -142,8 +142,8 @@ const Contact = ({ theme }: ContactProps) => {
                 <div>
                   <h3 className="text-xl font-medium mb-2">Email</h3>
                   <p className={`${theme === 'dark' ? 'text-gray-300' : 'text-gray-700'}`}>
-                    hello@johndoe.com<br />
-                    contact@johndoe.com
+                    hello@jefferson.com<br />
+                    contact@jefferson.com
                   </p>
                 </div>
               </div>

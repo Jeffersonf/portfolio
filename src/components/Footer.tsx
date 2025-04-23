@@ -63,7 +63,7 @@ const Footer = ({ theme }: FooterProps) => {
         
         <div className="border-t border-gray-700 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-400">
-            © {currentYear} John Doe. All rights reserved.
+            © {currentYear} Jefferson. All rights reserved.
           </p>
           
           <div className="flex space-x-6 mt-4 md:mt-0">
